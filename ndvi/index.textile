@@ -1,0 +1,13 @@
+---
+layout: default
+title: NDVI via WCS
+---
+h1. NDVI datasets via WCS
+
+GINA is publishing MODIS and AVHRR datasets via "Web Coverage Service (WCS)":http://en.wikipedia.org/wiki/Web_Coverage_Service.  
+
+For more details, please see:
+* "MODIS NDVI Datasets":modis.html
+* "AVHRR NDVI Datasets":avhrr.html
+* "Colorized NDVI Datasets":wms.html
+* "How to use the NDVI services in ArcMap":how_to.html
